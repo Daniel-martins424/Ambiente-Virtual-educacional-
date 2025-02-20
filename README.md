@@ -2,7 +2,7 @@
 
 __Este projeto tem como objetivo criar um ambiente virtual para fins educacionais, que possibilite a execução de softwares como MySQL, Node.js e Python. Utilizando um orçamento de até 5.000 reais, ele inclui a montagem de um computador, configuração de uma máquina virtual e instalação de uma distribuição Linux gratuita, aplicando conceitos de Sistemas Operacionais, Redes de Computadores e Lógica de Programação.__
 
-__Levantamento de requisito:__
+### __Levantamento de requisito:__
 
 ### Requisitos para a Máquina Virtual
 
@@ -18,7 +18,9 @@ __Rede:__ NAT(Network Address Translation), pois as vantagens são a simplicidad
 
 
 
-## Pesquisa e Orçamento de Componentes
+### Pesquisa e Orçamento de Componentes
+
+Requisitos para computador fisíco:
 
 __Processador__ (CPU): AMD Ryzen 5 5600GT 3.6 GHz 6-Core
 
