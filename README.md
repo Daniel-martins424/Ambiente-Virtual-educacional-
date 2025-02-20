@@ -172,7 +172,8 @@ Siga as instruções de instalação fornecidas.
 Após a instalação, abra o VirtualBox.
 
 ### 2. __Criação da Máquina Virtual__
-Clique em "Novo":
+clique em novo:
+
 ![imagem](https://scontent-gru1-2.xx.fbcdn.net/v/t1.15752-9/479743487_630790559715751_2915314868008043686_n.png?stp=dst-png_s640x640&_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=VCnnmFrz2WsQ7kNvgGTNvtJ&_nc_oc=Adhsr0b2nx4cxEt7KYGKxPumGM866gRgRQTRXLlrV3y23uelRlGm8uxZjjVJ7AqUJwQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent-gru1-2.xx&oh=03_Q7cD1gFlGtb0AA4VW1WfjOTZVeKTg2aWrTXBa1ERMDMwVUmeJA&oe=67DEB251)
 
  __Configuração de Memória:__
